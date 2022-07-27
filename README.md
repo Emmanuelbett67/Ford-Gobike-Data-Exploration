@@ -1,5 +1,5 @@
-# (Ford Gobike Data Exploration)
-## by (Emmanuel Bett)
+# Ford Gobike Data Exploration
+## by Emmanuel Bett
 
 
 ## Dataset
@@ -23,9 +23,10 @@
 > For the age, duration, and user type, both Customer and Subscriber are showing similar trends for age and trip duration, but for subscribers the trip duration is higher for older age.
 
 ## Key Insights for Presentation
-
->Distribution of Trip Durations:
-Trip Durations in the dataset take on a very large range of values. Number of Trips values first increases starting from around 8000 values to 12500 values at peak around 600 seconds but then starts to fall below at 2000 values.
-
->Distribution of User Age:
-In the case of age, the distribution is more concentrated between 20 to 40 years old.
+ > The bike users are mostly subscribers, more than three quarters of the total bike users
+ > From the gender distribution males use bikes more than females
+ > We can see most of the bike rides are taken during morning hours
+ > People between 20-40 years take long trip durations
+ > Customers have higher trip duration but now we see this is true across all genders
+ > subscribers are the most bike users compared to the customers as expected
+ > Females have higher trip duration compared to male
